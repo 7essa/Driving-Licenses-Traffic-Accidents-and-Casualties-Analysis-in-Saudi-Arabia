@@ -1,4 +1,4 @@
-# Driving-Licenses-Traffic-Accidents-and-Casualties-Analysis-in-Saudi-Arabia
+# Driving-Licenses-Traffic-Accidents-and-Casualties-Analysis-in-Saudi-Arabia :dash: :car:
 
 ### Analyzing the relationship Accidents, Casualties and number of Licenses in Saudi arabia
 -------------------------------------------------------------------------
@@ -43,8 +43,8 @@ You will want to install anaconda 3 latest version depend on your operating syst
 
 # Authors
 -----------------------------------------------------------------------------------------------
-###### Hessa Altamimi 
-You can find the blog post here. [click here](https://medium.com/@7ess/analysis-saudi-traffic-accidents-due-to-licensees-issued-and-may-other-reasons-project-work-dc51ac6fa750)
+### Hessa Altamimi 
+You can find the blog post here. [click here](https://medium.com/@7ess/analysis-saudi-traffic-accidents-due-to-licensees-issued-and-may-other-reasons-project-work-dc51ac6fa750) :pushpin:
 
 # Acknowledgments
 -----------------------------------------------------------------------------------------------
